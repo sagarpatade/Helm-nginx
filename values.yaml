@@ -1,0 +1,9 @@
+replicaCount: 2
+
+service:
+  type: NodePort
+  port: 8080
+
+webpage:
+  title: "Day 23 Helm Chart"
+  message: "I built this entire Nginx architecture using Helm!"

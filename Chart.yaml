@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-simple-chart
+description: My Day 23 Custom Nginx Chart
+version: 1.0.0
